@@ -11,3 +11,7 @@ https://www.get-in-it.de/coding-challenge?utm_source=magazin&utm_medium=advertor
 Lets switch to the commando bridge of the space explorer space carrier to see how we can reach b3-r7-r4nd7.
 
 ## Please open "The way to b3-r7-r4nd7.ipynb"
+
+## Update: There seems to be a problem with the rendering, please open the notebook here:
+
+https://nbviewer.jupyter.org/github/arnimpdm/Routing-competition/blob/master/The%20way%20to%20b3-r7-r4nd7.ipynb?flush_cache=true
