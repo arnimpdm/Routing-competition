@@ -1,0 +1,8 @@
+,source_x,target_x,cost_x,cost_y,combined_cost,combined_way
+0,Planet Earth,Planet N_810,0.04060214221510905,,0.04060214221510905,Planet Earth to Planet N_810
+1,Planet N_810,Planet N_595,,0.1628038931266662,0.1628038931266662,Planet N_810 to Planet N_595
+2,Planet N_595,Planet N_132,,0.6331384762650787,0.6331384762650787,Planet N_595 to Planet N_132
+3,Planet N_132,Planet N_519,0.6333618615566976,,0.6333618615566976,Planet N_132 to Planet N_519
+4,Planet N_519,Planet N_71,,0.7625760415706333,0.7625760415706333,Planet N_519 to Planet N_71
+5,Planet N_71,Planet N_432,0.6742157893614655,,0.6742157893614655,Planet N_71 to Planet N_432
+6,Planet N_432,Planet b3-r7-r4nd7,,0.08898969190380779,0.08898969190380779,Planet N_432 to Planet b3-r7-r4nd7
